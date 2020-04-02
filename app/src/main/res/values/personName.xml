@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name">
+        <item>Rajesh Hamal</item>
+        <item>Binod Chaudhary</item>
+        <item>Babu Ram Bhattrai</item>
+        <item>Amrit Gurung</item>
+        <item>Paras Khadka</item>
+        <item>Rajesh Hamal</item>
+        <item>Binod Chaudhary</item>
+        <item>Babu Ram Bhattrai</item>
+        <item>Amrit Gurung</item>
+        <item>Paras Khadka</item>
+    </string-array>
+    <string-array name="profession">
+        <item>Actor</item>
+        <item>Business person</item>
+        <item>Politician</item>
+        <item>Singer</item>
+        <item>Cricketer</item>
+        <item>Actor</item>
+        <item>Business person</item>
+        <item>Politician</item>
+        <item>Singer</item>
+        <item>Cricketer</item>
+    </string-array>
+</resources>
